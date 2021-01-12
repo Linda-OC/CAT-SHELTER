@@ -1,15 +1,25 @@
 {
-  "name": "01.-cat-shelter-workshop-resources",
+  "name": "cat-shelter",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "dependencies": {
     "formidable": "^1.2.2",
     "nodemon": "^2.0.7"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linda-OC/cat-shelter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linda-OC/cat-shelter/issues"
+  },
+  "homepage": "https://github.com/Linda-OC/cat-shelter#readme",
+  "description": ""
 }
