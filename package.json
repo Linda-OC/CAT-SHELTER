@@ -9,6 +9,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "formidable": "^1.2.2",
     "nodemon": "^2.0.7"
   }
 }
